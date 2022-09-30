@@ -897,7 +897,7 @@ timer_setEnabled(t, false)
           <Keys>
             <Key>17</Key>
             <Key>16</Key>
-            <Key>82</Key>
+            <Key>68</Key>
           </Keys>
           <ID>0</ID>
         </Hotkey>
