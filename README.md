@@ -143,14 +143,15 @@ When you load a save that has been made in one of the prologue phases, laser is 
 | Numpad 5 | Dan's Hole          |
 | Numpad 6 | Skype Glitch Plunge |
 | Numpad 7 | EDS Voidout         |
-| Numpad 8 | Rainbow Road        |
-| Numpad 9 | Shore Fight         |
-| F1       | CCC                 |
-| F2       | Mansplaining        |
-| F3       | Eat Ass             |
-| F4       | Factory V2          |
-| F5       | Wschseng's Elevator |
-| F6       | Shabu               |
+| Numpad 8 | Castle Skip         |
+| Numpad 9 | Rainbow Road        |
+| F1       | Shore Fight         |
+| F2       | CCC                 |
+| F3       | Mansplaining        |
+| F4       | Eat Ass             |
+| F5       | Factory V2          |
+| F6       | Wschseng's Elevator |
+| F7       | Shabu               |
 
 ## Misc
 
