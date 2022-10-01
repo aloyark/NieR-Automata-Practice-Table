@@ -623,17 +623,17 @@ function checkKeys()
 
   if isKeyPressed(VK_SHIFT) then
     if isKeyPressed(VK_V) then
-      coordx = readFloat(xPtr)
-      coordy = readFloat(yPtr)
-      coordz = readFloat(zPtr)
+      coordx2 = readFloat(xPtr)
+      coordy2 = readFloat(yPtr)
+      coordz2 = readFloat(zPtr)
     end
   end
 
   if isKeyPressed(VK_X) then
     autoAssemble(noClipOn)
-    writeFloat(xPtr, coordx)
-    writeFloat(yPtr, coordy)
-    writeFloat(zPtr, coordz)
+    writeFloat(xPtr, coordx2)
+    writeFloat(yPtr, coordy2)
+    writeFloat(zPtr, coordz2)
     sleep(150)
     autoAssemble(noClipOff)
   end
