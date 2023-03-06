@@ -73,6 +73,15 @@ When you load a save that has been made in one of the prologue phases, laser is 
 
 - Again Mostly for testing purposes but can be use for some practice scenarios
 
+### Disable Debug Menu
+
+Thanks to Jasper1308 there's now a script to disable the debug menu that's in a lot of the practice saves. Debug menu can be useful for practicing some tricks but a lot of the time it gets in the way.
+
+### Enable System Menu Everywhere
+
+| Now you can open the system menu everywhere except in cutscenes<br/>Good for glitch hunting and resetting quickly when practicing shmup<br/><br/>Thanks again to Jasper1308 | <img title="" src="readme/PauseEverywhere.gif" width="" height=""> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+
 # Hotkeys
 
 #### Custom Warp Location 1
